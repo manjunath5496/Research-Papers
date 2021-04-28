@@ -121,29 +121,27 @@ A Program To Solve Sudoku </a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers/blob/master/r(61).pdf" style="text-decoration:none;">Supercompilation by Evaluation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers/blob/master/r(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers/blob/master/r(62).pdf" style="text-decoration:none;">The C standard formalized in Coq</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers/blob/master/r(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers/blob/master/r(63).pdf" style="text-decoration:none;">Tor: The Second-Generation Onion Router</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers/blob/master/r(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers/blob/master/r(64).pdf" style="text-decoration:none;">Trees that Grow</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers/blob/master/r(65).pdf" style="text-decoration:none;">Dynamic Computation Migration
-in Distributed Shared Memory Systems </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers/blob/master/r(65).pdf" style="text-decoration:none;">Is the brain a good model for machine intelligence?</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers/blob/master/r(66).pdf" style="text-decoration:none;">Extracting and Optimizing low-level bytecode from High-level verified Coq</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers/blob/master/r(66).pdf" style="text-decoration:none;">Virtual Machine
+Monitors: Current Technology and Future Trends</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers/blob/master/r(67).pdf" style="text-decoration:none;">Multiprocessing with the Exokernel Operating System</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers/blob/master/r(67).pdf" style="text-decoration:none;">On the Einstein Podolsky Rosen paradox</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers/blob/master/r(68).pdf" style="text-decoration:none;">Fast and Flexible Application-Level
-Networking on Exokernel Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers/blob/master/r(68).pdf" style="text-decoration:none;">How to make ad-hoc polymorphism less ad hoc </a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers/blob/master/r(69).pdf" style="text-decoration:none;">Device Transparency: a New Model for Mobile Storage</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers/blob/master/r(69).pdf" style="text-decoration:none;">Comprehending Monads</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers/blob/master/r(70).pdf" style="text-decoration:none;">Eyo: Device-Transparent Personal Storage</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers/blob/master/r(70).pdf" style="text-decoration:none;">What Is Life?</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers/blob/master/r(71).pdf" style="text-decoration:none;">Measuring the Effects of Internet Path Faults on
-Reactive Routing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Research-Papers/blob/master/r(71).pdf" style="text-decoration:none;">Urbit: A Solid-State Interpreter</a></li>
  
  </ul>
